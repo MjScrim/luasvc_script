@@ -1,0 +1,5 @@
+[Service]
+Name=Example_Service
+Exec=/usr/bin/sleep 10
+Log=/tmp/example.log
+Requires=network

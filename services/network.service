@@ -1,0 +1,4 @@
+[Service]
+Name=Network
+Exec=/usr/bin/sleep 2
+Log=/tmp/network.log
